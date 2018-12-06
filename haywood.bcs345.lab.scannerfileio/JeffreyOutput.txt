@@ -1,0 +1,2 @@
+100 30
+The result is 3000

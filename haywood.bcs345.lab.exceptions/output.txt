@@ -1,0 +1,4 @@
+10 /2 is 5
+Error: Not int type data in input stream.
+Divide by 0
+50 /10 is 5
