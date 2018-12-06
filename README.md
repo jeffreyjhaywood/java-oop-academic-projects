@@ -1,1 +1,1 @@
-A collection of small Java projects covering a range of topics.
+A collection of Java projects covering the scope of this academic course.
